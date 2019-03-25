@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28872" started-at="2019-03-25T06:42:17Z" finished-at="2019-03-25T06:42:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28872" started-at="2019-03-25T06:42:17Z" finished-at="2019-03-25T06:42:46Z">
+      <class name="zym1.DL">
+        <test-method status="PASS" signature="one()[pri:0, instance:zym1.DL@66048bfd]" name="one" is-config="true" duration-ms="17756" started-at="2019-03-25T14:42:17Z" finished-at="2019-03-25T14:42:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+        <test-method status="PASS" signature="kaos()[pri:0, instance:zym1.DL@66048bfd]" name="kaos" duration-ms="9008" started-at="2019-03-25T14:42:35Z" finished-at="2019-03-25T14:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kaos -->
+        <test-method status="PASS" signature="close()[pri:0, instance:zym1.DL@66048bfd]" name="close" is-config="true" duration-ms="2065" started-at="2019-03-25T14:42:44Z" finished-at="2019-03-25T14:42:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- zym1.DL -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
